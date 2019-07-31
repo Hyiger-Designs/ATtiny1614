@@ -164,11 +164,11 @@ X PB0 9 -600 400 100 R 50 50 1 1 T
 ENDDRAW
 ENDDEF
 #
-# Regulator_Linear_AP7381-50SA
+# attiny1614-rescue_AP7381-50SA-Regulator_Linear
 #
-DEF Regulator_Linear_AP7381-50SA U 0 10 Y Y 1 F N
+DEF attiny1614-rescue_AP7381-50SA-Regulator_Linear U 0 10 Y Y 1 F N
 F0 "U" -150 125 50 H V C CNN
-F1 "Regulator_Linear_AP7381-50SA" 0 125 50 H V L CNN
+F1 "attiny1614-rescue_AP7381-50SA-Regulator_Linear" 0 125 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" 0 225 50 H I C CIN
 F3 "" 0 -50 50 H I C CNN
 $FPLIST
